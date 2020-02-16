@@ -19,10 +19,15 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "cssmin": "^0.4.3",
+    "htmlmin": "0.0.7",
     "lite-server": "^2.3.0",
     "node-sass": "^4.13.1",
     "onchange": "^6.1.0",
-    "parallelshell": "^3.0.1"
+    "parallelshell": "^3.0.1",
+    "rimraf": "^2.6.2",
+    "uglify-js": "^2.6.0",
+    "usemin-cli": "^0.5.1"
   },
   "dependencies": {
     "bootstrap": "^4.4.1",
